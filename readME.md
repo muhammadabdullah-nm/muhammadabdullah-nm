@@ -19,6 +19,10 @@ Let's shape the future of tech together. 🌟
 - 📫   Reach me out: lashari.m09@gmail.com.
 
 ### Languages and Tools:
+![](https://img.shields.io/badge/-RISC--V-black?style=flat-square&logo=risc-v)
+![](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c)
+![](https://img.shields.io/badge/-IoT-black?style=flat-square&logo=internet-of-things)
+![](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=verilog)
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -26,10 +30,6 @@ Let's shape the future of tech together. 🌟
 ![](https://img.shields.io/badge/-Terminal-black?style=flat-square&logo=powershell)
 ![](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c)
-![](https://img.shields.io/badge/-IoT-black?style=flat-square&logo=internet-of-things)
-![](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=verilog)
-![](https://img.shields.io/badge/-RISC--V-black?style=flat-square&logo=risc-v)
 
 
 
