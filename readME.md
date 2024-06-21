@@ -8,9 +8,6 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 
 Let's shape the future of tech together. 🌟
 
-### Like My Work?
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-abdullah-lashari/))
-
 ### Talking about Personal Stuff:
 - 🛠   I’m currently working with Verilog, SystemVerilog, C/C++, etc.
 - 🚀   I’m currently exploring AI systems, 5G networking etc.
